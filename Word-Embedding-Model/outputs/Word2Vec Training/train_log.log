@@ -1,0 +1,862 @@
+==========================================
+SLURM_JOB_ID = 485994
+SLURM_NODELIST = gnode89
+SLURM_JOB_GPUS = 3
+==========================================
+running script
+3.6.2
+Starting !!!
+Training started !!
+Epoch 1 starting
+Epoch:  1	Batch:  5000	Train Loss: 6.702
+Epoch:  1	Batch: 10000	Train Loss: 6.374
+Epoch:  1	Batch: 15000	Train Loss: 6.183
+Epoch:  1	Batch: 20000	Train Loss: 6.052
+Epoch:  1	Batch: 25000	Train Loss: 5.954
+Epoch:  1	Batch: 30000	Train Loss: 5.876
+Epoch:  1	Batch: 35000	Train Loss: 5.814
+Epoch:  1	Batch: 40000	Train Loss: 5.762
+Epoch:  1	Batch: 45000	Train Loss: 5.717
+Epoch:  1	Batch: 50000	Train Loss: 5.677
+Epoch:  1	Batch: 55000	Train Loss: 5.642
+Epoch:  1	Batch: 60000	Train Loss: 5.610
+Epoch:  1	Batch: 65000	Train Loss: 5.581
+Epoch:  1	Batch: 70000	Train Loss: 5.556
+Epoch:  1	Batch: 75000	Train Loss: 5.532
+Epoch:  1	Batch: 80000	Train Loss: 5.511
+Epoch:  1	Batch: 85000	Train Loss: 5.491
+Epoch:  1	Batch: 90000	Train Loss: 5.473
+Epoch:  1	Batch: 95000	Train Loss: 5.456
+Epoch:  1	Batch: 100000	Train Loss: 5.441
+Epoch:  1	Batch: 105000	Train Loss: 5.426
+Epoch:  1	Batch: 110000	Train Loss: 5.413
+Epoch:  1	Batch: 115000	Train Loss: 5.400
+Epoch:  1	Batch: 120000	Train Loss: 5.388
+Epoch:  1	Batch: 125000	Train Loss: 5.377
+Epoch:  1	Batch: 130000	Train Loss: 5.366
+Epoch:  1	Batch: 135000	Train Loss: 5.356
+Epoch:  1	Batch: 140000	Train Loss: 5.347
+Epoch:  1	Batch: 145000	Train Loss: 5.338
+Epoch:  1	Batch: 150000	Train Loss: 5.329
+Epoch:  1	Batch: 155000	Train Loss: 5.321
+Epoch 1 completed
+Epoch: 1	Train Loss: 5.315
+Epoch 2 starting
+Epoch:  2	Batch:  5000	Train Loss: 5.021
+Epoch:  2	Batch: 10000	Train Loss: 5.025
+Epoch:  2	Batch: 15000	Train Loss: 5.029
+Epoch:  2	Batch: 20000	Train Loss: 5.031
+Epoch:  2	Batch: 25000	Train Loss: 5.032
+Epoch:  2	Batch: 30000	Train Loss: 5.033
+Epoch:  2	Batch: 35000	Train Loss: 5.031
+Epoch:  2	Batch: 40000	Train Loss: 5.030
+Epoch:  2	Batch: 45000	Train Loss: 5.031
+Epoch:  2	Batch: 50000	Train Loss: 5.031
+Epoch:  2	Batch: 55000	Train Loss: 5.031
+Epoch:  2	Batch: 60000	Train Loss: 5.030
+Epoch:  2	Batch: 65000	Train Loss: 5.030
+Epoch:  2	Batch: 70000	Train Loss: 5.030
+Epoch:  2	Batch: 75000	Train Loss: 5.029
+Epoch:  2	Batch: 80000	Train Loss: 5.029
+Epoch:  2	Batch: 85000	Train Loss: 5.029
+Epoch:  2	Batch: 90000	Train Loss: 5.029
+Epoch:  2	Batch: 95000	Train Loss: 5.029
+Epoch:  2	Batch: 100000	Train Loss: 5.029
+Epoch:  2	Batch: 105000	Train Loss: 5.028
+Epoch:  2	Batch: 110000	Train Loss: 5.027
+Epoch:  2	Batch: 115000	Train Loss: 5.027
+Epoch:  2	Batch: 120000	Train Loss: 5.027
+Epoch:  2	Batch: 125000	Train Loss: 5.026
+Epoch:  2	Batch: 130000	Train Loss: 5.026
+Epoch:  2	Batch: 135000	Train Loss: 5.026
+Epoch:  2	Batch: 140000	Train Loss: 5.026
+Epoch:  2	Batch: 145000	Train Loss: 5.025
+Epoch:  2	Batch: 150000	Train Loss: 5.025
+Epoch:  2	Batch: 155000	Train Loss: 5.025
+Epoch 2 completed
+Epoch: 2	Train Loss: 5.025
+Epoch 3 starting
+Epoch:  3	Batch:  5000	Train Loss: 4.982
+Epoch:  3	Batch: 10000	Train Loss: 4.976
+Epoch:  3	Batch: 15000	Train Loss: 4.980
+Epoch:  3	Batch: 20000	Train Loss: 4.981
+Epoch:  3	Batch: 25000	Train Loss: 4.980
+Epoch:  3	Batch: 30000	Train Loss: 4.983
+Epoch:  3	Batch: 35000	Train Loss: 4.984
+Epoch:  3	Batch: 40000	Train Loss: 4.984
+Epoch:  3	Batch: 45000	Train Loss: 4.987
+Epoch:  3	Batch: 50000	Train Loss: 4.987
+Epoch:  3	Batch: 55000	Train Loss: 4.988
+Epoch:  3	Batch: 60000	Train Loss: 4.989
+Epoch:  3	Batch: 65000	Train Loss: 4.990
+Epoch:  3	Batch: 70000	Train Loss: 4.991
+Epoch:  3	Batch: 75000	Train Loss: 4.991
+Epoch:  3	Batch: 80000	Train Loss: 4.991
+Epoch:  3	Batch: 85000	Train Loss: 4.991
+Epoch:  3	Batch: 90000	Train Loss: 4.991
+Epoch:  3	Batch: 95000	Train Loss: 4.990
+Epoch:  3	Batch: 100000	Train Loss: 4.991
+Epoch:  3	Batch: 105000	Train Loss: 4.991
+Epoch:  3	Batch: 110000	Train Loss: 4.991
+Epoch:  3	Batch: 115000	Train Loss: 4.991
+Epoch:  3	Batch: 120000	Train Loss: 4.992
+Epoch:  3	Batch: 125000	Train Loss: 4.992
+Epoch:  3	Batch: 130000	Train Loss: 4.992
+Epoch:  3	Batch: 135000	Train Loss: 4.992
+Epoch:  3	Batch: 140000	Train Loss: 4.992
+Epoch:  3	Batch: 145000	Train Loss: 4.992
+Epoch:  3	Batch: 150000	Train Loss: 4.992
+Epoch:  3	Batch: 155000	Train Loss: 4.993
+Epoch 3 completed
+Epoch: 3	Train Loss: 4.993
+Epoch 4 starting
+Epoch:  4	Batch:  5000	Train Loss: 4.952
+Epoch:  4	Batch: 10000	Train Loss: 4.960
+Epoch:  4	Batch: 15000	Train Loss: 4.959
+Epoch:  4	Batch: 20000	Train Loss: 4.961
+Epoch:  4	Batch: 25000	Train Loss: 4.963
+Epoch:  4	Batch: 30000	Train Loss: 4.966
+Epoch:  4	Batch: 35000	Train Loss: 4.968
+Epoch:  4	Batch: 40000	Train Loss: 4.969
+Epoch:  4	Batch: 45000	Train Loss: 4.971
+Epoch:  4	Batch: 50000	Train Loss: 4.972
+Epoch:  4	Batch: 55000	Train Loss: 4.972
+Epoch:  4	Batch: 60000	Train Loss: 4.974
+Epoch:  4	Batch: 65000	Train Loss: 4.975
+Epoch:  4	Batch: 70000	Train Loss: 4.977
+Epoch:  4	Batch: 75000	Train Loss: 4.977
+Epoch:  4	Batch: 80000	Train Loss: 4.978
+Epoch:  4	Batch: 85000	Train Loss: 4.979
+Epoch:  4	Batch: 90000	Train Loss: 4.979
+Epoch:  4	Batch: 95000	Train Loss: 4.979
+Epoch:  4	Batch: 100000	Train Loss: 4.980
+Epoch:  4	Batch: 105000	Train Loss: 4.981
+Epoch:  4	Batch: 110000	Train Loss: 4.982
+Epoch:  4	Batch: 115000	Train Loss: 4.982
+Epoch:  4	Batch: 120000	Train Loss: 4.983
+Epoch:  4	Batch: 125000	Train Loss: 4.984
+Epoch:  4	Batch: 130000	Train Loss: 4.985
+Epoch:  4	Batch: 135000	Train Loss: 4.985
+Epoch:  4	Batch: 140000	Train Loss: 4.986
+Epoch:  4	Batch: 145000	Train Loss: 4.986
+Epoch:  4	Batch: 150000	Train Loss: 4.986
+Epoch:  4	Batch: 155000	Train Loss: 4.987
+Epoch 4 completed
+Epoch: 4	Train Loss: 4.987
+Epoch 5 starting
+Epoch:  5	Batch:  5000	Train Loss: 4.961
+Epoch:  5	Batch: 10000	Train Loss: 4.960
+Epoch:  5	Batch: 15000	Train Loss: 4.960
+Epoch:  5	Batch: 20000	Train Loss: 4.961
+Epoch:  5	Batch: 25000	Train Loss: 4.962
+Epoch:  5	Batch: 30000	Train Loss: 4.966
+Epoch:  5	Batch: 35000	Train Loss: 4.968
+Epoch:  5	Batch: 40000	Train Loss: 4.970
+Epoch:  5	Batch: 45000	Train Loss: 4.972
+Epoch:  5	Batch: 50000	Train Loss: 4.973
+Epoch:  5	Batch: 55000	Train Loss: 4.974
+Epoch:  5	Batch: 60000	Train Loss: 4.976
+Epoch:  5	Batch: 65000	Train Loss: 4.976
+Epoch:  5	Batch: 70000	Train Loss: 4.977
+Epoch:  5	Batch: 75000	Train Loss: 4.978
+Epoch:  5	Batch: 80000	Train Loss: 4.978
+Epoch:  5	Batch: 85000	Train Loss: 4.979
+Epoch:  5	Batch: 90000	Train Loss: 4.980
+Epoch:  5	Batch: 95000	Train Loss: 4.981
+Epoch:  5	Batch: 100000	Train Loss: 4.981
+Epoch:  5	Batch: 105000	Train Loss: 4.981
+Epoch:  5	Batch: 110000	Train Loss: 4.982
+Epoch:  5	Batch: 115000	Train Loss: 4.983
+Epoch:  5	Batch: 120000	Train Loss: 4.983
+Epoch:  5	Batch: 125000	Train Loss: 4.983
+Epoch:  5	Batch: 130000	Train Loss: 4.984
+Epoch:  5	Batch: 135000	Train Loss: 4.984
+Epoch:  5	Batch: 140000	Train Loss: 4.985
+Epoch:  5	Batch: 145000	Train Loss: 4.985
+Epoch:  5	Batch: 150000	Train Loss: 4.985
+Epoch:  5	Batch: 155000	Train Loss: 4.986
+Epoch 5 completed
+Epoch: 5	Train Loss: 4.986
+Epoch 6 starting
+Epoch:  6	Batch:  5000	Train Loss: 4.957
+Epoch:  6	Batch: 10000	Train Loss: 4.961
+Epoch:  6	Batch: 15000	Train Loss: 4.965
+Epoch:  6	Batch: 20000	Train Loss: 4.965
+Epoch:  6	Batch: 25000	Train Loss: 4.965
+Epoch:  6	Batch: 30000	Train Loss: 4.968
+Epoch:  6	Batch: 35000	Train Loss: 4.968
+Epoch:  6	Batch: 40000	Train Loss: 4.970
+Epoch:  6	Batch: 45000	Train Loss: 4.971
+Epoch:  6	Batch: 50000	Train Loss: 4.973
+Epoch:  6	Batch: 55000	Train Loss: 4.972
+Epoch:  6	Batch: 60000	Train Loss: 4.973
+Epoch:  6	Batch: 65000	Train Loss: 4.974
+Epoch:  6	Batch: 70000	Train Loss: 4.975
+Epoch:  6	Batch: 75000	Train Loss: 4.976
+Epoch:  6	Batch: 80000	Train Loss: 4.977
+Epoch:  6	Batch: 85000	Train Loss: 4.977
+Epoch:  6	Batch: 90000	Train Loss: 4.978
+Epoch:  6	Batch: 95000	Train Loss: 4.978
+Epoch:  6	Batch: 100000	Train Loss: 4.978
+Epoch:  6	Batch: 105000	Train Loss: 4.979
+Epoch:  6	Batch: 110000	Train Loss: 4.979
+Epoch:  6	Batch: 115000	Train Loss: 4.979
+Epoch:  6	Batch: 120000	Train Loss: 4.979
+Epoch:  6	Batch: 125000	Train Loss: 4.980
+Epoch:  6	Batch: 130000	Train Loss: 4.980
+Epoch:  6	Batch: 135000	Train Loss: 4.980
+Epoch:  6	Batch: 140000	Train Loss: 4.980
+Epoch:  6	Batch: 145000	Train Loss: 4.981
+Epoch:  6	Batch: 150000	Train Loss: 4.981
+Epoch:  6	Batch: 155000	Train Loss: 4.981
+Epoch 6 completed
+Epoch: 6	Train Loss: 4.982
+Epoch 7 starting
+Epoch:  7	Batch:  5000	Train Loss: 4.951
+Epoch:  7	Batch: 10000	Train Loss: 4.955
+Epoch:  7	Batch: 15000	Train Loss: 4.963
+Epoch:  7	Batch: 20000	Train Loss: 4.965
+Epoch:  7	Batch: 25000	Train Loss: 4.967
+Epoch:  7	Batch: 30000	Train Loss: 4.969
+Epoch:  7	Batch: 35000	Train Loss: 4.970
+Epoch:  7	Batch: 40000	Train Loss: 4.972
+Epoch:  7	Batch: 45000	Train Loss: 4.973
+Epoch:  7	Batch: 50000	Train Loss: 4.973
+Epoch:  7	Batch: 55000	Train Loss: 4.974
+Epoch:  7	Batch: 60000	Train Loss: 4.975
+Epoch:  7	Batch: 65000	Train Loss: 4.975
+Epoch:  7	Batch: 70000	Train Loss: 4.976
+Epoch:  7	Batch: 75000	Train Loss: 4.976
+Epoch:  7	Batch: 80000	Train Loss: 4.976
+Epoch:  7	Batch: 85000	Train Loss: 4.975
+Epoch:  7	Batch: 90000	Train Loss: 4.975
+Epoch:  7	Batch: 95000	Train Loss: 4.976
+Epoch:  7	Batch: 100000	Train Loss: 4.977
+Epoch:  7	Batch: 105000	Train Loss: 4.977
+Epoch:  7	Batch: 110000	Train Loss: 4.978
+Epoch:  7	Batch: 115000	Train Loss: 4.978
+Epoch:  7	Batch: 120000	Train Loss: 4.978
+Epoch:  7	Batch: 125000	Train Loss: 4.978
+Epoch:  7	Batch: 130000	Train Loss: 4.979
+Epoch:  7	Batch: 135000	Train Loss: 4.979
+Epoch:  7	Batch: 140000	Train Loss: 4.979
+Epoch:  7	Batch: 145000	Train Loss: 4.980
+Epoch:  7	Batch: 150000	Train Loss: 4.980
+Epoch:  7	Batch: 155000	Train Loss: 4.980
+Epoch 7 completed
+Epoch: 7	Train Loss: 4.980
+Epoch 8 starting
+Epoch:  8	Batch:  5000	Train Loss: 4.956
+Epoch:  8	Batch: 10000	Train Loss: 4.962
+Epoch:  8	Batch: 15000	Train Loss: 4.960
+Epoch:  8	Batch: 20000	Train Loss: 4.962
+Epoch:  8	Batch: 25000	Train Loss: 4.965
+Epoch:  8	Batch: 30000	Train Loss: 4.965
+Epoch:  8	Batch: 35000	Train Loss: 4.966
+Epoch:  8	Batch: 40000	Train Loss: 4.966
+Epoch:  8	Batch: 45000	Train Loss: 4.968
+Epoch:  8	Batch: 50000	Train Loss: 4.970
+Epoch:  8	Batch: 55000	Train Loss: 4.971
+Epoch:  8	Batch: 60000	Train Loss: 4.972
+Epoch:  8	Batch: 65000	Train Loss: 4.972
+Epoch:  8	Batch: 70000	Train Loss: 4.973
+Epoch:  8	Batch: 75000	Train Loss: 4.974
+Epoch:  8	Batch: 80000	Train Loss: 4.975
+Epoch:  8	Batch: 85000	Train Loss: 4.974
+Epoch:  8	Batch: 90000	Train Loss: 4.976
+Epoch:  8	Batch: 95000	Train Loss: 4.976
+Epoch:  8	Batch: 100000	Train Loss: 4.977
+Epoch:  8	Batch: 105000	Train Loss: 4.977
+Epoch:  8	Batch: 110000	Train Loss: 4.977
+Epoch:  8	Batch: 115000	Train Loss: 4.978
+Epoch:  8	Batch: 120000	Train Loss: 4.978
+Epoch:  8	Batch: 125000	Train Loss: 4.978
+Epoch:  8	Batch: 130000	Train Loss: 4.978
+Epoch:  8	Batch: 135000	Train Loss: 4.978
+Epoch:  8	Batch: 140000	Train Loss: 4.979
+Epoch:  8	Batch: 145000	Train Loss: 4.979
+Epoch:  8	Batch: 150000	Train Loss: 4.980
+Epoch:  8	Batch: 155000	Train Loss: 4.980
+Epoch 8 completed
+Epoch: 8	Train Loss: 4.981
+Epoch 9 starting
+Epoch:  9	Batch:  5000	Train Loss: 4.956
+Epoch:  9	Batch: 10000	Train Loss: 4.962
+Epoch:  9	Batch: 15000	Train Loss: 4.965
+Epoch:  9	Batch: 20000	Train Loss: 4.963
+Epoch:  9	Batch: 25000	Train Loss: 4.965
+Epoch:  9	Batch: 30000	Train Loss: 4.965
+Epoch:  9	Batch: 35000	Train Loss: 4.968
+Epoch:  9	Batch: 40000	Train Loss: 4.969
+Epoch:  9	Batch: 45000	Train Loss: 4.970
+Epoch:  9	Batch: 50000	Train Loss: 4.969
+Epoch:  9	Batch: 55000	Train Loss: 4.970
+Epoch:  9	Batch: 60000	Train Loss: 4.972
+Epoch:  9	Batch: 65000	Train Loss: 4.973
+Epoch:  9	Batch: 70000	Train Loss: 4.974
+Epoch:  9	Batch: 75000	Train Loss: 4.975
+Epoch:  9	Batch: 80000	Train Loss: 4.975
+Epoch:  9	Batch: 85000	Train Loss: 4.976
+Epoch:  9	Batch: 90000	Train Loss: 4.976
+Epoch:  9	Batch: 95000	Train Loss: 4.977
+Epoch:  9	Batch: 100000	Train Loss: 4.978
+Epoch:  9	Batch: 105000	Train Loss: 4.978
+Epoch:  9	Batch: 110000	Train Loss: 4.978
+Epoch:  9	Batch: 115000	Train Loss: 4.978
+Epoch:  9	Batch: 120000	Train Loss: 4.979
+Epoch:  9	Batch: 125000	Train Loss: 4.979
+Epoch:  9	Batch: 130000	Train Loss: 4.979
+Epoch:  9	Batch: 135000	Train Loss: 4.980
+Epoch:  9	Batch: 140000	Train Loss: 4.980
+Epoch:  9	Batch: 145000	Train Loss: 4.980
+Epoch:  9	Batch: 150000	Train Loss: 4.981
+Epoch:  9	Batch: 155000	Train Loss: 4.981
+Epoch 9 completed
+Epoch: 9	Train Loss: 4.981
+Epoch 10 starting
+Epoch: 10	Batch:  5000	Train Loss: 4.955
+Epoch: 10	Batch: 10000	Train Loss: 4.955
+Epoch: 10	Batch: 15000	Train Loss: 4.959
+Epoch: 10	Batch: 20000	Train Loss: 4.963
+Epoch: 10	Batch: 25000	Train Loss: 4.963
+Epoch: 10	Batch: 30000	Train Loss: 4.962
+Epoch: 10	Batch: 35000	Train Loss: 4.964
+Epoch: 10	Batch: 40000	Train Loss: 4.965
+Epoch: 10	Batch: 45000	Train Loss: 4.967
+Epoch: 10	Batch: 50000	Train Loss: 4.969
+Epoch: 10	Batch: 55000	Train Loss: 4.970
+Epoch: 10	Batch: 60000	Train Loss: 4.971
+Epoch: 10	Batch: 65000	Train Loss: 4.971
+Epoch: 10	Batch: 70000	Train Loss: 4.972
+Epoch: 10	Batch: 75000	Train Loss: 4.973
+Epoch: 10	Batch: 80000	Train Loss: 4.973
+Epoch: 10	Batch: 85000	Train Loss: 4.974
+Epoch: 10	Batch: 90000	Train Loss: 4.974
+Epoch: 10	Batch: 95000	Train Loss: 4.975
+Epoch: 10	Batch: 100000	Train Loss: 4.975
+Epoch: 10	Batch: 105000	Train Loss: 4.975
+Epoch: 10	Batch: 110000	Train Loss: 4.976
+Epoch: 10	Batch: 115000	Train Loss: 4.976
+Epoch: 10	Batch: 120000	Train Loss: 4.977
+Epoch: 10	Batch: 125000	Train Loss: 4.978
+Epoch: 10	Batch: 130000	Train Loss: 4.978
+Epoch: 10	Batch: 135000	Train Loss: 4.978
+Epoch: 10	Batch: 140000	Train Loss: 4.979
+Epoch: 10	Batch: 145000	Train Loss: 4.980
+Epoch: 10	Batch: 150000	Train Loss: 4.980
+Epoch: 10	Batch: 155000	Train Loss: 4.980
+Epoch 10 completed
+Epoch: 10	Train Loss: 4.980
+Epoch 11 starting
+Epoch: 11	Batch:  5000	Train Loss: 4.950
+Epoch: 11	Batch: 10000	Train Loss: 4.954
+Epoch: 11	Batch: 15000	Train Loss: 4.958
+Epoch: 11	Batch: 20000	Train Loss: 4.962
+Epoch: 11	Batch: 25000	Train Loss: 4.963
+Epoch: 11	Batch: 30000	Train Loss: 4.965
+Epoch: 11	Batch: 35000	Train Loss: 4.966
+Epoch: 11	Batch: 40000	Train Loss: 4.968
+Epoch: 11	Batch: 45000	Train Loss: 4.970
+Epoch: 11	Batch: 50000	Train Loss: 4.969
+Epoch: 11	Batch: 55000	Train Loss: 4.971
+Epoch: 11	Batch: 60000	Train Loss: 4.972
+Epoch: 11	Batch: 65000	Train Loss: 4.973
+Epoch: 11	Batch: 70000	Train Loss: 4.973
+Epoch: 11	Batch: 75000	Train Loss: 4.974
+Epoch: 11	Batch: 80000	Train Loss: 4.975
+Epoch: 11	Batch: 85000	Train Loss: 4.975
+Epoch: 11	Batch: 90000	Train Loss: 4.975
+Epoch: 11	Batch: 95000	Train Loss: 4.976
+Epoch: 11	Batch: 100000	Train Loss: 4.976
+Epoch: 11	Batch: 105000	Train Loss: 4.976
+Epoch: 11	Batch: 110000	Train Loss: 4.977
+Epoch: 11	Batch: 115000	Train Loss: 4.977
+Epoch: 11	Batch: 120000	Train Loss: 4.978
+Epoch: 11	Batch: 125000	Train Loss: 4.978
+Epoch: 11	Batch: 130000	Train Loss: 4.979
+Epoch: 11	Batch: 135000	Train Loss: 4.979
+Epoch: 11	Batch: 140000	Train Loss: 4.979
+Epoch: 11	Batch: 145000	Train Loss: 4.980
+Epoch: 11	Batch: 150000	Train Loss: 4.980
+Epoch: 11	Batch: 155000	Train Loss: 4.981
+Epoch 11 completed
+Epoch: 11	Train Loss: 4.981
+Epoch 12 starting
+Epoch: 12	Batch:  5000	Train Loss: 4.956
+Epoch: 12	Batch: 10000	Train Loss: 4.962
+Epoch: 12	Batch: 15000	Train Loss: 4.967
+Epoch: 12	Batch: 20000	Train Loss: 4.971
+Epoch: 12	Batch: 25000	Train Loss: 4.971
+Epoch: 12	Batch: 30000	Train Loss: 4.973
+Epoch: 12	Batch: 35000	Train Loss: 4.973
+Epoch: 12	Batch: 40000	Train Loss: 4.973
+Epoch: 12	Batch: 45000	Train Loss: 4.974
+Epoch: 12	Batch: 50000	Train Loss: 4.975
+Epoch: 12	Batch: 55000	Train Loss: 4.976
+Epoch: 12	Batch: 60000	Train Loss: 4.976
+Epoch: 12	Batch: 65000	Train Loss: 4.977
+Epoch: 12	Batch: 70000	Train Loss: 4.977
+Epoch: 12	Batch: 75000	Train Loss: 4.978
+Epoch: 12	Batch: 80000	Train Loss: 4.978
+Epoch: 12	Batch: 85000	Train Loss: 4.978
+Epoch: 12	Batch: 90000	Train Loss: 4.979
+Epoch: 12	Batch: 95000	Train Loss: 4.979
+Epoch: 12	Batch: 100000	Train Loss: 4.980
+Epoch: 12	Batch: 105000	Train Loss: 4.980
+Epoch: 12	Batch: 110000	Train Loss: 4.980
+Epoch: 12	Batch: 115000	Train Loss: 4.980
+Epoch: 12	Batch: 120000	Train Loss: 4.981
+Epoch: 12	Batch: 125000	Train Loss: 4.981
+Epoch: 12	Batch: 130000	Train Loss: 4.982
+Epoch: 12	Batch: 135000	Train Loss: 4.982
+Epoch: 12	Batch: 140000	Train Loss: 4.983
+Epoch: 12	Batch: 145000	Train Loss: 4.984
+Epoch: 12	Batch: 150000	Train Loss: 4.984
+Epoch: 12	Batch: 155000	Train Loss: 4.984
+Epoch 12 completed
+Epoch: 12	Train Loss: 4.984
+Epoch 13 starting
+Epoch: 13	Batch:  5000	Train Loss: 4.956
+Epoch: 13	Batch: 10000	Train Loss: 4.962
+Epoch: 13	Batch: 15000	Train Loss: 4.967
+Epoch: 13	Batch: 20000	Train Loss: 4.968
+Epoch: 13	Batch: 25000	Train Loss: 4.969
+Epoch: 13	Batch: 30000	Train Loss: 4.969
+Epoch: 13	Batch: 35000	Train Loss: 4.971
+Epoch: 13	Batch: 40000	Train Loss: 4.973
+Epoch: 13	Batch: 45000	Train Loss: 4.973
+Epoch: 13	Batch: 50000	Train Loss: 4.974
+Epoch: 13	Batch: 55000	Train Loss: 4.974
+Epoch: 13	Batch: 60000	Train Loss: 4.975
+Epoch: 13	Batch: 65000	Train Loss: 4.976
+Epoch: 13	Batch: 70000	Train Loss: 4.976
+Epoch: 13	Batch: 75000	Train Loss: 4.977
+Epoch: 13	Batch: 80000	Train Loss: 4.978
+Epoch: 13	Batch: 85000	Train Loss: 4.978
+Epoch: 13	Batch: 90000	Train Loss: 4.978
+Epoch: 13	Batch: 95000	Train Loss: 4.978
+Epoch: 13	Batch: 100000	Train Loss: 4.979
+Epoch: 13	Batch: 105000	Train Loss: 4.980
+Epoch: 13	Batch: 110000	Train Loss: 4.980
+Epoch: 13	Batch: 115000	Train Loss: 4.980
+Epoch: 13	Batch: 120000	Train Loss: 4.981
+Epoch: 13	Batch: 125000	Train Loss: 4.982
+Epoch: 13	Batch: 130000	Train Loss: 4.982
+Epoch: 13	Batch: 135000	Train Loss: 4.983
+Epoch: 13	Batch: 140000	Train Loss: 4.983
+Epoch: 13	Batch: 145000	Train Loss: 4.984
+Epoch: 13	Batch: 150000	Train Loss: 4.984
+Epoch: 13	Batch: 155000	Train Loss: 4.985
+Epoch 13 completed
+Epoch: 13	Train Loss: 4.985
+Epoch 14 starting
+Epoch: 14	Batch:  5000	Train Loss: 4.963
+Epoch: 14	Batch: 10000	Train Loss: 4.963
+Epoch: 14	Batch: 15000	Train Loss: 4.966
+Epoch: 14	Batch: 20000	Train Loss: 4.968
+Epoch: 14	Batch: 25000	Train Loss: 4.970
+Epoch: 14	Batch: 30000	Train Loss: 4.974
+Epoch: 14	Batch: 35000	Train Loss: 4.975
+Epoch: 14	Batch: 40000	Train Loss: 4.976
+Epoch: 14	Batch: 45000	Train Loss: 4.978
+Epoch: 14	Batch: 50000	Train Loss: 4.979
+Epoch: 14	Batch: 55000	Train Loss: 4.980
+Epoch: 14	Batch: 60000	Train Loss: 4.980
+Epoch: 14	Batch: 65000	Train Loss: 4.981
+Epoch: 14	Batch: 70000	Train Loss: 4.982
+Epoch: 14	Batch: 75000	Train Loss: 4.982
+Epoch: 14	Batch: 80000	Train Loss: 4.983
+Epoch: 14	Batch: 85000	Train Loss: 4.983
+Epoch: 14	Batch: 90000	Train Loss: 4.984
+Epoch: 14	Batch: 95000	Train Loss: 4.984
+Epoch: 14	Batch: 100000	Train Loss: 4.984
+Epoch: 14	Batch: 105000	Train Loss: 4.984
+Epoch: 14	Batch: 110000	Train Loss: 4.985
+Epoch: 14	Batch: 115000	Train Loss: 4.985
+Epoch: 14	Batch: 120000	Train Loss: 4.986
+Epoch: 14	Batch: 125000	Train Loss: 4.986
+Epoch: 14	Batch: 130000	Train Loss: 4.987
+Epoch: 14	Batch: 135000	Train Loss: 4.987
+Epoch: 14	Batch: 140000	Train Loss: 4.987
+Epoch: 14	Batch: 145000	Train Loss: 4.988
+Epoch: 14	Batch: 150000	Train Loss: 4.988
+Epoch: 14	Batch: 155000	Train Loss: 4.988
+Epoch 14 completed
+Epoch: 14	Train Loss: 4.988
+Epoch 15 starting
+Epoch: 15	Batch:  5000	Train Loss: 4.973
+Epoch: 15	Batch: 10000	Train Loss: 4.967
+Epoch: 15	Batch: 15000	Train Loss: 4.971
+Epoch: 15	Batch: 20000	Train Loss: 4.973
+Epoch: 15	Batch: 25000	Train Loss: 4.974
+Epoch: 15	Batch: 30000	Train Loss: 4.975
+Epoch: 15	Batch: 35000	Train Loss: 4.978
+Epoch: 15	Batch: 40000	Train Loss: 4.979
+Epoch: 15	Batch: 45000	Train Loss: 4.980
+Epoch: 15	Batch: 50000	Train Loss: 4.980
+Epoch: 15	Batch: 55000	Train Loss: 4.981
+Epoch: 15	Batch: 60000	Train Loss: 4.983
+Epoch: 15	Batch: 65000	Train Loss: 4.983
+Epoch: 15	Batch: 70000	Train Loss: 4.984
+Epoch: 15	Batch: 75000	Train Loss: 4.985
+Epoch: 15	Batch: 80000	Train Loss: 4.985
+Epoch: 15	Batch: 85000	Train Loss: 4.986
+Epoch: 15	Batch: 90000	Train Loss: 4.986
+Epoch: 15	Batch: 95000	Train Loss: 4.987
+Epoch: 15	Batch: 100000	Train Loss: 4.988
+Epoch: 15	Batch: 105000	Train Loss: 4.988
+Epoch: 15	Batch: 110000	Train Loss: 4.988
+Epoch: 15	Batch: 115000	Train Loss: 4.989
+Epoch: 15	Batch: 120000	Train Loss: 4.989
+Epoch: 15	Batch: 125000	Train Loss: 4.989
+Epoch: 15	Batch: 130000	Train Loss: 4.989
+Epoch: 15	Batch: 135000	Train Loss: 4.989
+Epoch: 15	Batch: 140000	Train Loss: 4.990
+Epoch: 15	Batch: 145000	Train Loss: 4.990
+Epoch: 15	Batch: 150000	Train Loss: 4.991
+Epoch: 15	Batch: 155000	Train Loss: 4.991
+Epoch 15 completed
+Epoch: 15	Train Loss: 4.991
+Epoch 16 starting
+Epoch: 16	Batch:  5000	Train Loss: 4.966
+Epoch: 16	Batch: 10000	Train Loss: 4.973
+Epoch: 16	Batch: 15000	Train Loss: 4.975
+Epoch: 16	Batch: 20000	Train Loss: 4.980
+Epoch: 16	Batch: 25000	Train Loss: 4.983
+Epoch: 16	Batch: 30000	Train Loss: 4.982
+Epoch: 16	Batch: 35000	Train Loss: 4.982
+Epoch: 16	Batch: 40000	Train Loss: 4.984
+Epoch: 16	Batch: 45000	Train Loss: 4.985
+Epoch: 16	Batch: 50000	Train Loss: 4.985
+Epoch: 16	Batch: 55000	Train Loss: 4.984
+Epoch: 16	Batch: 60000	Train Loss: 4.985
+Epoch: 16	Batch: 65000	Train Loss: 4.985
+Epoch: 16	Batch: 70000	Train Loss: 4.985
+Epoch: 16	Batch: 75000	Train Loss: 4.985
+Epoch: 16	Batch: 80000	Train Loss: 4.986
+Epoch: 16	Batch: 85000	Train Loss: 4.985
+Epoch: 16	Batch: 90000	Train Loss: 4.985
+Epoch: 16	Batch: 95000	Train Loss: 4.986
+Epoch: 16	Batch: 100000	Train Loss: 4.986
+Epoch: 16	Batch: 105000	Train Loss: 4.986
+Epoch: 16	Batch: 110000	Train Loss: 4.986
+Epoch: 16	Batch: 115000	Train Loss: 4.986
+Epoch: 16	Batch: 120000	Train Loss: 4.986
+Epoch: 16	Batch: 125000	Train Loss: 4.986
+Epoch: 16	Batch: 130000	Train Loss: 4.987
+Epoch: 16	Batch: 135000	Train Loss: 4.987
+Epoch: 16	Batch: 140000	Train Loss: 4.987
+Epoch: 16	Batch: 145000	Train Loss: 4.988
+Epoch: 16	Batch: 150000	Train Loss: 4.988
+Epoch: 16	Batch: 155000	Train Loss: 4.988
+Epoch 16 completed
+Epoch: 16	Train Loss: 4.988
+Epoch 17 starting
+Epoch: 17	Batch:  5000	Train Loss: 4.967
+Epoch: 17	Batch: 10000	Train Loss: 4.969
+Epoch: 17	Batch: 15000	Train Loss: 4.968
+Epoch: 17	Batch: 20000	Train Loss: 4.969
+Epoch: 17	Batch: 25000	Train Loss: 4.970
+Epoch: 17	Batch: 30000	Train Loss: 4.971
+Epoch: 17	Batch: 35000	Train Loss: 4.971
+Epoch: 17	Batch: 40000	Train Loss: 4.971
+Epoch: 17	Batch: 45000	Train Loss: 4.973
+Epoch: 17	Batch: 50000	Train Loss: 4.975
+Epoch: 17	Batch: 55000	Train Loss: 4.976
+Epoch: 17	Batch: 60000	Train Loss: 4.977
+Epoch: 17	Batch: 65000	Train Loss: 4.976
+Epoch: 17	Batch: 70000	Train Loss: 4.978
+Epoch: 17	Batch: 75000	Train Loss: 4.978
+Epoch: 17	Batch: 80000	Train Loss: 4.979
+Epoch: 17	Batch: 85000	Train Loss: 4.980
+Epoch: 17	Batch: 90000	Train Loss: 4.980
+Epoch: 17	Batch: 95000	Train Loss: 4.981
+Epoch: 17	Batch: 100000	Train Loss: 4.981
+Epoch: 17	Batch: 105000	Train Loss: 4.981
+Epoch: 17	Batch: 110000	Train Loss: 4.981
+Epoch: 17	Batch: 115000	Train Loss: 4.982
+Epoch: 17	Batch: 120000	Train Loss: 4.982
+Epoch: 17	Batch: 125000	Train Loss: 4.983
+Epoch: 17	Batch: 130000	Train Loss: 4.983
+Epoch: 17	Batch: 135000	Train Loss: 4.983
+Epoch: 17	Batch: 140000	Train Loss: 4.983
+Epoch: 17	Batch: 145000	Train Loss: 4.983
+Epoch: 17	Batch: 150000	Train Loss: 4.984
+Epoch: 17	Batch: 155000	Train Loss: 4.984
+Epoch 17 completed
+Epoch: 17	Train Loss: 4.984
+Epoch 18 starting
+Epoch: 18	Batch:  5000	Train Loss: 4.954
+Epoch: 18	Batch: 10000	Train Loss: 4.959
+Epoch: 18	Batch: 15000	Train Loss: 4.967
+Epoch: 18	Batch: 20000	Train Loss: 4.968
+Epoch: 18	Batch: 25000	Train Loss: 4.971
+Epoch: 18	Batch: 30000	Train Loss: 4.973
+Epoch: 18	Batch: 35000	Train Loss: 4.973
+Epoch: 18	Batch: 40000	Train Loss: 4.973
+Epoch: 18	Batch: 45000	Train Loss: 4.975
+Epoch: 18	Batch: 50000	Train Loss: 4.975
+Epoch: 18	Batch: 55000	Train Loss: 4.975
+Epoch: 18	Batch: 60000	Train Loss: 4.977
+Epoch: 18	Batch: 65000	Train Loss: 4.976
+Epoch: 18	Batch: 70000	Train Loss: 4.977
+Epoch: 18	Batch: 75000	Train Loss: 4.978
+Epoch: 18	Batch: 80000	Train Loss: 4.979
+Epoch: 18	Batch: 85000	Train Loss: 4.979
+Epoch: 18	Batch: 90000	Train Loss: 4.980
+Epoch: 18	Batch: 95000	Train Loss: 4.980
+Epoch: 18	Batch: 100000	Train Loss: 4.981
+Epoch: 18	Batch: 105000	Train Loss: 4.981
+Epoch: 18	Batch: 110000	Train Loss: 4.982
+Epoch: 18	Batch: 115000	Train Loss: 4.982
+Epoch: 18	Batch: 120000	Train Loss: 4.982
+Epoch: 18	Batch: 125000	Train Loss: 4.983
+Epoch: 18	Batch: 130000	Train Loss: 4.983
+Epoch: 18	Batch: 135000	Train Loss: 4.983
+Epoch: 18	Batch: 140000	Train Loss: 4.983
+Epoch: 18	Batch: 145000	Train Loss: 4.983
+Epoch: 18	Batch: 150000	Train Loss: 4.983
+Epoch: 18	Batch: 155000	Train Loss: 4.984
+Epoch 18 completed
+Epoch: 18	Train Loss: 4.984
+Epoch 19 starting
+Epoch: 19	Batch:  5000	Train Loss: 4.962
+Epoch: 19	Batch: 10000	Train Loss: 4.964
+Epoch: 19	Batch: 15000	Train Loss: 4.969
+Epoch: 19	Batch: 20000	Train Loss: 4.972
+Epoch: 19	Batch: 25000	Train Loss: 4.973
+Epoch: 19	Batch: 30000	Train Loss: 4.975
+Epoch: 19	Batch: 35000	Train Loss: 4.975
+Epoch: 19	Batch: 40000	Train Loss: 4.976
+Epoch: 19	Batch: 45000	Train Loss: 4.976
+Epoch: 19	Batch: 50000	Train Loss: 4.977
+Epoch: 19	Batch: 55000	Train Loss: 4.977
+Epoch: 19	Batch: 60000	Train Loss: 4.977
+Epoch: 19	Batch: 65000	Train Loss: 4.977
+Epoch: 19	Batch: 70000	Train Loss: 4.977
+Epoch: 19	Batch: 75000	Train Loss: 4.978
+Epoch: 19	Batch: 80000	Train Loss: 4.979
+Epoch: 19	Batch: 85000	Train Loss: 4.979
+Epoch: 19	Batch: 90000	Train Loss: 4.979
+Epoch: 19	Batch: 95000	Train Loss: 4.979
+Epoch: 19	Batch: 100000	Train Loss: 4.980
+Epoch: 19	Batch: 105000	Train Loss: 4.980
+Epoch: 19	Batch: 110000	Train Loss: 4.980
+Epoch: 19	Batch: 115000	Train Loss: 4.981
+Epoch: 19	Batch: 120000	Train Loss: 4.981
+Epoch: 19	Batch: 125000	Train Loss: 4.981
+Epoch: 19	Batch: 130000	Train Loss: 4.981
+Epoch: 19	Batch: 135000	Train Loss: 4.981
+Epoch: 19	Batch: 140000	Train Loss: 4.981
+Epoch: 19	Batch: 145000	Train Loss: 4.981
+Epoch: 19	Batch: 150000	Train Loss: 4.982
+Epoch: 19	Batch: 155000	Train Loss: 4.982
+Epoch 19 completed
+Epoch: 19	Train Loss: 4.982
+Epoch 20 starting
+Epoch: 20	Batch:  5000	Train Loss: 4.959
+Epoch: 20	Batch: 10000	Train Loss: 4.960
+Epoch: 20	Batch: 15000	Train Loss: 4.965
+Epoch: 20	Batch: 20000	Train Loss: 4.967
+Epoch: 20	Batch: 25000	Train Loss: 4.968
+Epoch: 20	Batch: 30000	Train Loss: 4.967
+Epoch: 20	Batch: 35000	Train Loss: 4.969
+Epoch: 20	Batch: 40000	Train Loss: 4.970
+Epoch: 20	Batch: 45000	Train Loss: 4.970
+Epoch: 20	Batch: 50000	Train Loss: 4.971
+Epoch: 20	Batch: 55000	Train Loss: 4.972
+Epoch: 20	Batch: 60000	Train Loss: 4.973
+Epoch: 20	Batch: 65000	Train Loss: 4.973
+Epoch: 20	Batch: 70000	Train Loss: 4.973
+Epoch: 20	Batch: 75000	Train Loss: 4.973
+Epoch: 20	Batch: 80000	Train Loss: 4.973
+Epoch: 20	Batch: 85000	Train Loss: 4.974
+Epoch: 20	Batch: 90000	Train Loss: 4.973
+Epoch: 20	Batch: 95000	Train Loss: 4.973
+Epoch: 20	Batch: 100000	Train Loss: 4.974
+Epoch: 20	Batch: 105000	Train Loss: 4.974
+Epoch: 20	Batch: 110000	Train Loss: 4.975
+Epoch: 20	Batch: 115000	Train Loss: 4.975
+Epoch: 20	Batch: 120000	Train Loss: 4.975
+Epoch: 20	Batch: 125000	Train Loss: 4.975
+Epoch: 20	Batch: 130000	Train Loss: 4.976
+Epoch: 20	Batch: 135000	Train Loss: 4.976
+Epoch: 20	Batch: 140000	Train Loss: 4.976
+Epoch: 20	Batch: 145000	Train Loss: 4.977
+Epoch: 20	Batch: 150000	Train Loss: 4.977
+Epoch: 20	Batch: 155000	Train Loss: 4.977
+Epoch 20 completed
+Epoch: 20	Train Loss: 4.977
+Epoch 21 starting
+Epoch: 21	Batch:  5000	Train Loss: 4.947
+Epoch: 21	Batch: 10000	Train Loss: 4.951
+Epoch: 21	Batch: 15000	Train Loss: 4.955
+Epoch: 21	Batch: 20000	Train Loss: 4.959
+Epoch: 21	Batch: 25000	Train Loss: 4.963
+Epoch: 21	Batch: 30000	Train Loss: 4.964
+Epoch: 21	Batch: 35000	Train Loss: 4.964
+Epoch: 21	Batch: 40000	Train Loss: 4.964
+Epoch: 21	Batch: 45000	Train Loss: 4.966
+Epoch: 21	Batch: 50000	Train Loss: 4.967
+Epoch: 21	Batch: 55000	Train Loss: 4.969
+Epoch: 21	Batch: 60000	Train Loss: 4.970
+Epoch: 21	Batch: 65000	Train Loss: 4.971
+Epoch: 21	Batch: 70000	Train Loss: 4.972
+Epoch: 21	Batch: 75000	Train Loss: 4.972
+Epoch: 21	Batch: 80000	Train Loss: 4.972
+Epoch: 21	Batch: 85000	Train Loss: 4.973
+Epoch: 21	Batch: 90000	Train Loss: 4.973
+Epoch: 21	Batch: 95000	Train Loss: 4.974
+Epoch: 21	Batch: 100000	Train Loss: 4.974
+Epoch: 21	Batch: 105000	Train Loss: 4.974
+Epoch: 21	Batch: 110000	Train Loss: 4.974
+Epoch: 21	Batch: 115000	Train Loss: 4.975
+Epoch: 21	Batch: 120000	Train Loss: 4.975
+Epoch: 21	Batch: 125000	Train Loss: 4.976
+Epoch: 21	Batch: 130000	Train Loss: 4.976
+Epoch: 21	Batch: 135000	Train Loss: 4.977
+Epoch: 21	Batch: 140000	Train Loss: 4.977
+Epoch: 21	Batch: 145000	Train Loss: 4.977
+Epoch: 21	Batch: 150000	Train Loss: 4.978
+Epoch: 21	Batch: 155000	Train Loss: 4.978
+Epoch 21 completed
+Epoch: 21	Train Loss: 4.978
+Epoch 22 starting
+Epoch: 22	Batch:  5000	Train Loss: 4.958
+Epoch: 22	Batch: 10000	Train Loss: 4.959
+Epoch: 22	Batch: 15000	Train Loss: 4.962
+Epoch: 22	Batch: 20000	Train Loss: 4.963
+Epoch: 22	Batch: 25000	Train Loss: 4.965
+Epoch: 22	Batch: 30000	Train Loss: 4.967
+Epoch: 22	Batch: 35000	Train Loss: 4.967
+Epoch: 22	Batch: 40000	Train Loss: 4.969
+Epoch: 22	Batch: 45000	Train Loss: 4.969
+Epoch: 22	Batch: 50000	Train Loss: 4.971
+Epoch: 22	Batch: 55000	Train Loss: 4.972
+Epoch: 22	Batch: 60000	Train Loss: 4.973
+Epoch: 22	Batch: 65000	Train Loss: 4.974
+Epoch: 22	Batch: 70000	Train Loss: 4.975
+Epoch: 22	Batch: 75000	Train Loss: 4.975
+Epoch: 22	Batch: 80000	Train Loss: 4.975
+Epoch: 22	Batch: 85000	Train Loss: 4.975
+Epoch: 22	Batch: 90000	Train Loss: 4.976
+Epoch: 22	Batch: 95000	Train Loss: 4.976
+Epoch: 22	Batch: 100000	Train Loss: 4.977
+Epoch: 22	Batch: 105000	Train Loss: 4.977
+Epoch: 22	Batch: 110000	Train Loss: 4.977
+Epoch: 22	Batch: 115000	Train Loss: 4.978
+Epoch: 22	Batch: 120000	Train Loss: 4.978
+Epoch: 22	Batch: 125000	Train Loss: 4.979
+Epoch: 22	Batch: 130000	Train Loss: 4.979
+Epoch: 22	Batch: 135000	Train Loss: 4.980
+Epoch: 22	Batch: 140000	Train Loss: 4.980
+Epoch: 22	Batch: 145000	Train Loss: 4.980
+Epoch: 22	Batch: 150000	Train Loss: 4.980
+Epoch: 22	Batch: 155000	Train Loss: 4.981
+Epoch 22 completed
+Epoch: 22	Train Loss: 4.981
+Epoch 23 starting
+Epoch: 23	Batch:  5000	Train Loss: 4.966
+Epoch: 23	Batch: 10000	Train Loss: 4.969
+Epoch: 23	Batch: 15000	Train Loss: 4.968
+Epoch: 23	Batch: 20000	Train Loss: 4.969
+Epoch: 23	Batch: 25000	Train Loss: 4.971
+Epoch: 23	Batch: 30000	Train Loss: 4.973
+Epoch: 23	Batch: 35000	Train Loss: 4.973
+Epoch: 23	Batch: 40000	Train Loss: 4.975
+Epoch: 23	Batch: 45000	Train Loss: 4.975
+Epoch: 23	Batch: 50000	Train Loss: 4.976
+Epoch: 23	Batch: 55000	Train Loss: 4.976
+Epoch: 23	Batch: 60000	Train Loss: 4.978
+Epoch: 23	Batch: 65000	Train Loss: 4.978
+Epoch: 23	Batch: 70000	Train Loss: 4.978
+Epoch: 23	Batch: 75000	Train Loss: 4.979
+Epoch: 23	Batch: 80000	Train Loss: 4.979
+Epoch: 23	Batch: 85000	Train Loss: 4.979
+Epoch: 23	Batch: 90000	Train Loss: 4.979
+Epoch: 23	Batch: 95000	Train Loss: 4.979
+Epoch: 23	Batch: 100000	Train Loss: 4.980
+Epoch: 23	Batch: 105000	Train Loss: 4.980
+Epoch: 23	Batch: 110000	Train Loss: 4.981
+Epoch: 23	Batch: 115000	Train Loss: 4.981
+Epoch: 23	Batch: 120000	Train Loss: 4.981
+Epoch: 23	Batch: 125000	Train Loss: 4.980
+Epoch: 23	Batch: 130000	Train Loss: 4.981
+Epoch: 23	Batch: 135000	Train Loss: 4.981
+Epoch: 23	Batch: 140000	Train Loss: 4.981
+Epoch: 23	Batch: 145000	Train Loss: 4.981
+Epoch: 23	Batch: 150000	Train Loss: 4.982
+Epoch: 23	Batch: 155000	Train Loss: 4.982
+Epoch 23 completed
+Epoch: 23	Train Loss: 4.982
+Epoch 24 starting
+Epoch: 24	Batch:  5000	Train Loss: 4.965
+Epoch: 24	Batch: 10000	Train Loss: 4.965
+Epoch: 24	Batch: 15000	Train Loss: 4.964
+Epoch: 24	Batch: 20000	Train Loss: 4.965
+Epoch: 24	Batch: 25000	Train Loss: 4.964
+Epoch: 24	Batch: 30000	Train Loss: 4.964
+Epoch: 24	Batch: 35000	Train Loss: 4.966
+Epoch: 24	Batch: 40000	Train Loss: 4.967
+Epoch: 24	Batch: 45000	Train Loss: 4.969
+Epoch: 24	Batch: 50000	Train Loss: 4.971
+Epoch: 24	Batch: 55000	Train Loss: 4.973
+Epoch: 24	Batch: 60000	Train Loss: 4.973
+Epoch: 24	Batch: 65000	Train Loss: 4.974
+Epoch: 24	Batch: 70000	Train Loss: 4.975
+Epoch: 24	Batch: 75000	Train Loss: 4.975
+Epoch: 24	Batch: 80000	Train Loss: 4.975
+Epoch: 24	Batch: 85000	Train Loss: 4.975
+Epoch: 24	Batch: 90000	Train Loss: 4.976
+Epoch: 24	Batch: 95000	Train Loss: 4.976
+Epoch: 24	Batch: 100000	Train Loss: 4.977
+Epoch: 24	Batch: 105000	Train Loss: 4.977
+Epoch: 24	Batch: 110000	Train Loss: 4.978
+Epoch: 24	Batch: 115000	Train Loss: 4.978
+Epoch: 24	Batch: 120000	Train Loss: 4.979
+Epoch: 24	Batch: 125000	Train Loss: 4.979
+Epoch: 24	Batch: 130000	Train Loss: 4.980
+Epoch: 24	Batch: 135000	Train Loss: 4.980
+Epoch: 24	Batch: 140000	Train Loss: 4.980
+Epoch: 24	Batch: 145000	Train Loss: 4.980
+Epoch: 24	Batch: 150000	Train Loss: 4.981
+Epoch: 24	Batch: 155000	Train Loss: 4.981
+Epoch 24 completed
+Epoch: 24	Train Loss: 4.981
+Epoch 25 starting
+Epoch: 25	Batch:  5000	Train Loss: 4.949
+Epoch: 25	Batch: 10000	Train Loss: 4.954
+Epoch: 25	Batch: 15000	Train Loss: 4.959
+Epoch: 25	Batch: 20000	Train Loss: 4.960
+Epoch: 25	Batch: 25000	Train Loss: 4.962
+Epoch: 25	Batch: 30000	Train Loss: 4.965
+Epoch: 25	Batch: 35000	Train Loss: 4.965
+Epoch: 25	Batch: 40000	Train Loss: 4.966
+Epoch: 25	Batch: 45000	Train Loss: 4.967
+Epoch: 25	Batch: 50000	Train Loss: 4.968
+Epoch: 25	Batch: 55000	Train Loss: 4.970
+Epoch: 25	Batch: 60000	Train Loss: 4.971
+Epoch: 25	Batch: 65000	Train Loss: 4.972
+Epoch: 25	Batch: 70000	Train Loss: 4.971
+Epoch: 25	Batch: 75000	Train Loss: 4.972
+Epoch: 25	Batch: 80000	Train Loss: 4.972
+Epoch: 25	Batch: 85000	Train Loss: 4.973
+Epoch: 25	Batch: 90000	Train Loss: 4.974
+Epoch: 25	Batch: 95000	Train Loss: 4.974
+Epoch: 25	Batch: 100000	Train Loss: 4.974
+Epoch: 25	Batch: 105000	Train Loss: 4.974
+Epoch: 25	Batch: 110000	Train Loss: 4.975
+Epoch: 25	Batch: 115000	Train Loss: 4.976
+Epoch: 25	Batch: 120000	Train Loss: 4.976
+Epoch: 25	Batch: 125000	Train Loss: 4.976
+Epoch: 25	Batch: 130000	Train Loss: 4.977
+Epoch: 25	Batch: 135000	Train Loss: 4.977
+Epoch: 25	Batch: 140000	Train Loss: 4.978
+Epoch: 25	Batch: 145000	Train Loss: 4.978
+Epoch: 25	Batch: 150000	Train Loss: 4.978
+Epoch: 25	Batch: 155000	Train Loss: 4.978
+Epoch 25 completed
+Epoch: 25	Train Loss: 4.979
+Training completed !!
+Top 10 similar words obtained by Word Embedding Model for the word camera are, [('camera', 1.0000001192092896), ('slr', 0.7598601579666138), ('camcorder', 0.7342973351478577), ('lens', 0.7333139777183533), ('cameras', 0.7170840501785278), ('backpack', 0.7101454734802246), ('lense', 0.7043905854225159), ('film', 0.70195072889328), ('dslr', 0.6932461261749268), ('bag', 0.6805490851402283)]
+finishing script
